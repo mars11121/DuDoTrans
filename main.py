@@ -174,5 +174,5 @@ class Trainer(object):
 
 if __name__=='__main__':
   trainer=Trainer()
-  # trainer.train()
+  trainer.train()
   # trainer.inference()

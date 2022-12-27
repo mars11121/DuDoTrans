@@ -18,7 +18,7 @@ Run the script on NIH-AAPM dataset.
 `python main.py`
 
 ## Testing 
-If  you want to test the model which has been trained on the NIH-AAPM dataset, turn off and "trainer.train()" and turn on "trainer.inference()", then run the script as follows.
+If  you want to test the model which has been trained on the NIH-AAPM dataset, turn off and "trainer.train()" and turn on "trainer.inference()", then download the pretrained model here(https://drive.google.com/file/d/165KZKtZWxOTVb2ahHFpjW__Mli_tA13G/view?usp=share_link), and run the script as follows.
 
 `python main.py`
 

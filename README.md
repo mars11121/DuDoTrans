@@ -13,14 +13,14 @@
 After downloading the dataset from [here](https://aapm.app.box.com/s/eaw4jddb53keg1bptavvvd1sf4x3pe9h), put the train/test data (original dcm files) in the corresponding workdir "path to train" and "path to test".
 
 ## Training
-Run the training script on NIH-AAPM dataset.
+Run the script on NIH-AAPM dataset.
 
 `python main.py`
 
 ## Testing 
-If  you want to test the model which has been trained on the NIH-AAPM dataset, run the testing script as following.
+If  you want to test the model which has been trained on the NIH-AAPM dataset, turn off and "trainer.train()" and turn on "trainer.inference()", then run the script as follows.
 
-`python main.py --test`
+`python main.py`
 
 # Citation
 If you use our code or models in your work or find it is helpful, please cite the corresponding paper:

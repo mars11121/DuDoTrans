@@ -15,12 +15,12 @@ After downloading the dataset from [here](https://aapm.app.box.com/s/eaw4jddb53k
 ## Training
 Run the training script on NIH-AAPM dataset.
 
-`python train.py`
+`python main.py`
 
 ## Testing 
 If  you want to test the model which has been trained on the NIH-AAPM dataset, run the testing script as following.
 
-`python test.py`
+`python main.py --test`
 
 # Citation
 If you use our code or models in your work or find it is helpful, please cite the corresponding paper:

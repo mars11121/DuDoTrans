@@ -1,5 +1,5 @@
 # DuDoTrans
-- This code is an official implementation of "[DuDoTrans: Dual-Domain Transformer for Sparse-View CT Reconstruction]"(https://link.springer.com/chapter/10.1007/978-3-031-17247-2_9) based on the open source ct reconstruction toolbox [odl](https://github.com/odlgroup/odl).
+- This code is an official implementation of "[DuDoTrans: Dual-Domain Transformer for Sparse-View CT Reconstruction](https://link.springer.com/chapter/10.1007/978-3-031-17247-2_9)" based on the open source ct reconstruction toolbox [odl](https://github.com/odlgroup/odl).
 
 ## Requirements
 - platform: linux-64

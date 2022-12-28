@@ -22,7 +22,7 @@ If  you want to test the model which has been trained on the NIH-AAPM dataset, t
 
 `python main.py`
 
-# Citation
+## Citation
 If you use our code or models in your work or find it is helpful, please cite the corresponding paper:
 
 ```
